@@ -46,7 +46,17 @@ namespace Parcial3_Base
 
             if (result != null)
             {
-                result.PrintMatrixValues();
+                for (int i = 0; i < result.GetLength(0); i++)
+                {
+                    for (int j = 0; j < result.GetLength(1); j++);
+                    {
+                        for ([matrixA] + [matrixB]);
+
+                    }
+                    {
+                        result.PrintMatrixValues();
+                    }
+                }
             }
 
             return result;
@@ -65,12 +75,21 @@ namespace Parcial3_Base
 
             if (result != null)
             {
-                result.PrintMatrixValues();
+                for (int i = 0; i < result.GetLength(0); i++)
+                {
+                    for (int j = 0; j < result.GetLength(1); j++) ;
+                    {
+                        for ([matrix] * [scalar]) ;
+
+                    }
+                    {
+                        result.PrintMatrixValues();
+                    }
+                }
             }
 
             return result;
         }
-
         /// <summary>
         /// Multiplica dos matrices parámetro
         /// Valor del punto: 2.0 / 5.0
