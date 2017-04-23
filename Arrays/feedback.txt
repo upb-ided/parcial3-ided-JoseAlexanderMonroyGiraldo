@@ -1,0 +1,20 @@
+Punto 1(AddMatrix)
+* El acercamiento es correcto, pero la instrucción que aplica la operación no. Además, sintácticamente está mal escrita.
+* Nunca se asignan las dimensiones de la matriz 'result', por lo que el código nunca ejecutaría, de estar bien escrito.
+* No se valida si las matrices son operables (deben ser de la misma dimensión)
+Total: 0.3 / 1.0
+
+Punto 2(MultiplyMatrixByScalar)
+* El acercamiento es correcto, pero la instrucción que aplica la operación no. Además, sintácticamente está mal escrita.
+* Nunca se asignan las dimensiones de la matriz 'result', por lo que el código nunca ejecutaría, de estar bien escrito.
+Total: 0.3 / 1.0
+
+Punto 3(MultiplyMatrices)
+* No presenta solución
+Total: 0.0 / 2.0
+
+Punto 4(MixMatrix)
+* No presenta solución.
+Total: 0.0 / 1.0
+
+Total evaluación: 0.6 / 5.0
